@@ -10,7 +10,7 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Javiann Marrero </span>
             from <span className="purple"> Chicago, IL.</span>
-            <br />I am a Full Stack Web Developer pursuing a career change.
+            <br />I am a Software Engineer, pursuing a career change.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!

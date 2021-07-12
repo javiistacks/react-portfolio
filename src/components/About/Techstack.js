@@ -1,6 +1,6 @@
 import React from "react";
 import { Col, Row } from "react-bootstrap";
-import { CgCPlusPlus } from "react-icons/cg";
+// import { CgCPlusPlus } from "react-icons/cg";
 import {
   DiJavascript1,
   DiReact,
@@ -11,7 +11,7 @@ import {
   DiCss3,
   DiHtml5,
 } from "react-icons/di";
-import { SiPytorch, SiTensorflow, SiFirebase, SiNpm, SiMysql } from "react-icons/si";
+import { SiNpm, SiMysql } from "react-icons/si";
 
 function Techstack() {
   return (
