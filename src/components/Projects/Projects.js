@@ -151,7 +151,7 @@ function Projects() {
               isBlog={false}
               title="Workout Tracker"
               description="A real-time workout tracker, that allows the user to create a new workout, add to an existing workout, and view your exercise statistics."
-              link="https://github.com/soumyajit4419/Plant_AI"
+              link="https://github.com/javiistacks/workoutTracker"
             />
           </Col>
 
@@ -161,7 +161,7 @@ function Projects() {
               isBlog={false}
               title="Budget Tracker"
               description="Budget Tracker is a progressive web application that allows the user to track their finances, with or without internet connection."
-              link="https://github.com/soumyajit4419/Plant_AI"
+              link="https://github.com/javiistacks/budgetTracker"
             />
           </Col>
 
@@ -171,7 +171,7 @@ function Projects() {
               isBlog={false}
               title="Employee Directory"
               description="A full stack Employee Directory application created using react. The Employee Directory allows the user to seach employees by first or last name and sort them by their location, first and last name. This Project was bootstrapped with Create React App."
-              link="https://github.com/soumyajit4419/Editor.io"
+              link="https://github.com/javiistacks/employee_Directory"
             />
           </Col>
 
