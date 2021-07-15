@@ -1,14 +1,9 @@
-# react-portfolio
-https://javiistacks.github.io/react-portfolio/
-
-
-
 # Unit 20 React Homework: React Portfolio
 [![Generic badge](https://img.shields.io/badge/license-GPL%20v3-40e637)](#license)
 ![GitHub language count](https://img.shields.io/github/languages/count/javiistacks/react-portfolio)
 ![GitHub top language](https://img.shields.io/github/languages/top/javiistacks/react-portfolio)
 
-# Employee Directory
+# React Portfolio
 
 ## Table of Contents
 * [Introduction](#introduction)
