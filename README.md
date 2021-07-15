@@ -3,10 +3,10 @@ https://javiistacks.github.io/react-portfolio/
 
 
 
-# Unit 19 React Homework: Employee Directory
+# Unit 20 React Homework: React Portfolio
 [![Generic badge](https://img.shields.io/badge/license-GPL%20v3-40e637)](#license)
-![GitHub language count](https://img.shields.io/github/languages/count/javiistacks/employee_Directory)
-![GitHub top language](https://img.shields.io/github/languages/top/javiistacks/employee_Directory)
+![GitHub language count](https://img.shields.io/github/languages/count/javiistacks/react-portfolio)
+![GitHub top language](https://img.shields.io/github/languages/top/javiistacks/react-portfolio)
 
 # Employee Directory
 
@@ -23,11 +23,11 @@ https://javiistacks.github.io/react-portfolio/
 
 
 ## Introduction
-A full stack Employee Directory application created using react. The Employee Directory allows the user to seach employees by first or last name and sort them by their location, first and last name. This Project was bootstrapped with Create React App.
+React Portfolio
 
 ## Demo
 
-![Screencast Demo](./docs/directory.gif)
+![Screencast Demo](.assets/reactgif.gif)
 
 
 
@@ -35,7 +35,7 @@ A full stack Employee Directory application created using react. The Employee Di
 
 | ***Screenshot***                   |     
 | :--------------------------------: | 
-| <img src="./docs/picture.png">     |
+| <img src="./assets/reactportfolio.png">     |
 
 
 
@@ -108,13 +108,13 @@ yarn start
 
 ## Repository
 ### Github Repository
-Repository at [Employee_Directory](https://github.com/javiistacks/employee_Directory)
+Repository at [react-portfolio](https://github.com/javiistacks/react-portfolio)
 
 ## Deployment
 Deployment was made possible with GH Pages. 
-Check out my Employee Directory at the link below.
+Check out my react portfolio at the link below.
 
-* [Employee Directory](https://javiistacks.github.io/employee_Directory/)
+* [My React Portfolio](https://javiistacks.github.io/react-portfolio/)
 
 ## License
 
